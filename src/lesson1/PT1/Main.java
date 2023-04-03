@@ -8,7 +8,7 @@ import Practical_task.Task4;
 public class Main {
     public static void main(String[] args) {
 //        Task1.triangular();
-//        Task3.simple();
+        Task3.simple();
 //        System.out.println(Task2.factor());
 //        Task4.calculator();
     }

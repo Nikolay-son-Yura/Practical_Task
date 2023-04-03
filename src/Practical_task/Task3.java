@@ -13,7 +13,7 @@ public class Task3 {
                     break;
                 }
             }
-            if (flag) System.out.print(i);
+            if (flag) System.out.println(i);
             else flag = true;
         }
     }
