@@ -1,10 +1,9 @@
 package Practical_task;
 
-import java.util.Arrays;
 import java.util.Scanner;
 
 //Реализовать простой калькулятор
-public class Task4 {
+public class Task1_4 {
     public static void calculator() {
         double rez = 0;
 //        String mask = "%s %s=%s%n";

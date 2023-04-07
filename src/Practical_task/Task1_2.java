@@ -3,7 +3,7 @@ package Practical_task;
 import java.util.Scanner;
 
 //n! (произведение чисел от 1 до n)
-public class Task2 {
+public class Task1_2 {
     public static double factor() {
         Scanner scaner = new Scanner(System.in);
         System.out.println("Введите число: ");

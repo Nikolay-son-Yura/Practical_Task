@@ -3,7 +3,7 @@ package Practical_task;
 
 import java.util.Scanner;
 
-public class Task1 {
+public class Task1_1 {
     public static void triangular() {
         String mask = "%s %s %n";
         String inscription = "Треугольное число:";
