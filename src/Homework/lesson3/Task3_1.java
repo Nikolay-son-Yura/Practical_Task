@@ -1,4 +1,4 @@
-package Practical_task;
+package Homework.lesson3;
 //Реализовать алгоритм сортировки слиянием
 //Я вроде как разобрался через рекурсию
 

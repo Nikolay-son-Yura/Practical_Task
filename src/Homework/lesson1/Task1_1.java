@@ -1,4 +1,4 @@
-package Practical_task;
+package Homework.lesson1;
 //Вычислить n-ое треугольного число (сумма чисел от 1 до n),
 
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package Practical_task;
+package Homework.lesson2;
 //Реализуйте алгоритм сортировки пузырьком числового массива, результат после каждой итерации запишите в лог-файл.
 //        (через FileWriter).
 import java.io.IOException;

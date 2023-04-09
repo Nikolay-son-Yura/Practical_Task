@@ -1,4 +1,4 @@
-package Practical_task;
+package Homework.lesson3;
 //Пусть дан произвольный список целых чисел, удалить из него чётные числа
 
 
