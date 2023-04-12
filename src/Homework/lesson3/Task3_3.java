@@ -17,6 +17,7 @@ public class Task3_3 {
             list.add(rd.nextInt(1, 101));
         }
         return list;
+
     }
 
     public static void averageMaxMin() {
